@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mikedane2
+- 👋 Hi, I’m Victor Onyango
 - 👀 I’m interested in software engineering 
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on any web development work
